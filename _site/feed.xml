@@ -7,28 +7,16 @@
 		<atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
-				<title>Text Formatting</title>
+				<title>Road Trip Around Lake Michigan 環密西根湖</title>
 				
 				
-					<description>&lt;p&gt;As always, Jekyll offers support for GitHub Flavored Markdown, which allows you to format your posts using the &lt;a href=&quot;https://guides.github.com/features/mastering-markdown/&quot;&gt;Markdown syntax&lt;/a&gt;. Examples of these text formatting features can be seen below. You can find this post in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory.&lt;/p&gt;
+					<description>&lt;p&gt;決定來寫第一篇中文遊記，雖然我中文作文只有國中程度，因為在計畫旅行的時候發現美國中西部的遊記滿少的，而且自己比較喜歡看中文遊記多過於英文的遊記。&lt;/p&gt;
 
 </description>
 				
-				<pubDate>Fri, 09 Sep 2016 00:00:00 -0400</pubDate>
-				<link>http://localhost:4000/sample/Text-Formatting.html</link>
-				<guid isPermaLink="true">http://localhost:4000/sample/Text-Formatting.html</guid>
-			</item>
-		
-			<item>
-				<title>A Test</title>
-				
-				
-					<description>&lt;p&gt;This is a test blog&lt;/p&gt;
-</description>
-				
-				<pubDate>Sat, 02 May 2015 00:00:00 -0400</pubDate>
-				<link>http://localhost:4000/sample/a-test-blog.html</link>
-				<guid isPermaLink="true">http://localhost:4000/sample/a-test-blog.html</guid>
+				<pubDate>Sun, 10 Sep 2017 00:00:00 -0400</pubDate>
+				<link>http://localhost:4000/sample/Around-Lake_Michigan.html</link>
+				<guid isPermaLink="true">http://localhost:4000/sample/Around-Lake_Michigan.html</guid>
 			</item>
 		
 	</channel>

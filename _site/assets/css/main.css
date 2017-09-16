@@ -30,7 +30,7 @@ p {
   margin-left: 0;
   margin-right: 0;
   line-height: 1.65;
-  font-family: Georgia, serif; }
+  font-family: Microsoft JhengHei, sans-serif; }
 
 /*
   Links
@@ -386,6 +386,16 @@ pre {
   .fa-envelope:hover {
     color: #f39c12; }
 
+.fa-twitter {
+  padding: 5px;
+  -webkit-transition: 1s;
+  -o-transition: 1s;
+  -ms-transition: 1s;
+  -moz-transition: 1s;
+  transition: 1s; }
+  .fa-twitter:hover {
+    color: #00aced; }
+
 .fa-instagram {
   padding: 5px;
   -webkit-transition: 1s;
@@ -406,6 +416,15 @@ pre {
   .fa-github:hover {
     color: #343434; }
 
+.fa-linkedin {
+  padding: 5px;
+  -webkit-transition: 1s;
+  -o-transition: 1s;
+  -ms-transition: 1s;
+  -moz-transition: 1s;
+  transition: 1s; }
+  .fa-linkedin:hover {
+    color: #0073a4; }
 
 .fa-facebook {
   padding: 5px;
@@ -416,6 +435,26 @@ pre {
   transition: 1s; }
   .fa-facebook:hover {
     color: #3d5b99; }
+
+.fa-google-plus {
+  padding: 5px;
+  -webkit-transition: 1s;
+  -o-transition: 1s;
+  -ms-transition: 1s;
+  -moz-transition: 1s;
+  transition: 1s; }
+  .fa-google-plus:hover {
+    color: #e64a41; }
+
+.fa-pinterest {
+  padding: 5px;
+  -webkit-transition: 1s;
+  -o-transition: 1s;
+  -ms-transition: 1s;
+  -moz-transition: 1s;
+  transition: 1s; }
+  .fa-pinterest:hover {
+    color: #bd081c; }
 
 .fa-medium {
   padding: 5px;
