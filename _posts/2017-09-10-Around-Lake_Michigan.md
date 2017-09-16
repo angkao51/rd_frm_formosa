@@ -143,8 +143,6 @@ Kitch-iti-kipi 是密西根最大的自然泉水，名字直翻的意思是 “�
 
 下個目的地是Fayette Historical State Park，這個State Park以前是個鑄鐵的小鎮在Lake Michigan湖邊，這天的天氣真的很棒所以怎麼拍怎麼美，是個有歷史故事的小鎮，之後荒廢以後政府原本一直花錢重建但是因重建的經費很高，這些建築在密西根北邊每年下那麼多寸雪的環境下很難維持，之後決定放棄重建改花錢盡量維持原本的樣貌。
 
-![]({{ site.github.url }}/assets/img/09042017/12.jpg)
-
 ![]({{ site.github.url }}/assets/img/09042017/13.jpg)
 
 ![]({{ site.github.url }}/assets/img/09042017/14.jpg)
