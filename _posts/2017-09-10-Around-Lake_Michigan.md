@@ -5,7 +5,7 @@ author: "Angela ㄍㄠ"
 categories: sample
 tags: [sample]
 image:
-  feature: 09042017/13.jpg
+  feature: Traverse-City.jpg
 ---
 
 決定來寫第一篇中文遊記，雖然我中文作文只有國中程度，因為在計畫旅行的時候發現美國中西部的遊記滿少的，而且自己比較喜歡看中文遊記多過於英文的遊記。
