@@ -66,8 +66,6 @@ layout: default
     </ul>
   </div>
 
-  {% if site.data.settings.disqus.comments %}
-    {% include disqus.html %}
-  {% endif %}
+    <div class="fb-comments" data-href="{{ site.url }}{{ page.url }}"></div>
 
 </div>
