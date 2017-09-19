@@ -19,5 +19,18 @@
 				<guid isPermaLink="true">http://localhost:4000/sample/Around-Lake_Michigan.html</guid>
 			</item>
 		
+			<item>
+				<title>Road Trip From H-Town to Michigan 一路向北搬家兼公路之旅</title>
+				
+				
+					<description>&lt;p&gt;補之前的Roadtrip，因為這應該是這輩子唯一一次會從德州一路roadtrip到北邊不會有下次了 XD。&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Sun, 25 Jun 2017 00:00:00 -0400</pubDate>
+				<link>http://localhost:4000/sample/Road-Trip-From-Htown.html</link>
+				<guid isPermaLink="true">http://localhost:4000/sample/Road-Trip-From-Htown.html</guid>
+			</item>
+		
 	</channel>
 </rss>
