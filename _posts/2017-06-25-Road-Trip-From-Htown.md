@@ -46,7 +46,8 @@ Commerce, OK
 
 ![]({{ site.github.url }}/assets/img/06252017/7.JPG)
 
-之後roadtrip最後一站到了 Illinois 州的首府，參觀了林肯下葬的地方。
+roadtrip最後一站到了 Illinois 州的首府，Illionis 又叫 Land of Lincoln，經過Spring Field，參觀了林肯最終下葬的地方 Lincoln Tomb。
+林肯的妻子與他的三個兒子也是葬在這個地方。
 
 ![]({{ site.github.url }}/assets/img/06252017/8.JPG)
 
