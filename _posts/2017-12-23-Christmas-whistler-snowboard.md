@@ -123,7 +123,7 @@ Whistler Blackcomb在2016年夏天被Vail買下（Vail簡直要統一天下雪�
 
 這天風雪太大就也沒有拍什麼照了，照片都是灰灰暗暗的。
 
-![]({{ site.github.url }}/assets/img/12232017/whistlertrailmap.pdf)
+![]({{ site.github.url }}/assets/img/12232017/whistlertrailmap.JPG)
 
 這是http://www.whistlerblackcomb.com 上面下載下來今年雪季trail map，留個紀錄。
 
