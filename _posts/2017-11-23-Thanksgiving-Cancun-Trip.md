@@ -121,7 +121,7 @@ Cancun的公車非常的方便，搭公車從旅館到 downtown 的市集只要1
 
 ![]({{ site.github.url }}/assets/img/11232017/9.JPG)
 
-看到這隻queen angelfish真的好漂亮。
+看到這隻angelfish真的好漂亮。
 
 這次wreck dive留下很好的印象，非常期待下次wreck dive!會是哪裡呢？...
 
