@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Christmas Whistler Blackcomb Snowboarding Trip 聖誕節惠思樂滑雪"
+title: "Christmas Whistler Blackcomb Snowboard Trip 聖誕節惠思樂滑雪"
 author: "Angela ㄍㄠ"
 categories: sample
 tags: [sample]
