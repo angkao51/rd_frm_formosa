@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Thanksgiving Cancun Trip 感恩節坎昆潛水"
+title: "Cancun Scuba Diving Trip 坎昆真的好美潛水記"
 author: "Angela ㄍㄠ"
 categories: sample
 tags: [sample]
